@@ -1,0 +1,25 @@
+{"level":"info","message":"this is a information message"}
+{"level":"warn","message":"this is a warning message"}
+{"level":"error","message":"error"}
+{"ip":"127.0.0.1","level":"info","message":"User logged in","username":"ananth"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"info","message":"this is a information message"}
+{"level":"warn","message":"this is a warning message"}
+{"level":"error","message":"error"}
+{"ip":"127.0.0.1","level":"info","message":"User logged in","username":"ananth"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"info","message":"this is a information message"}
+{"level":"warn","message":"this is a warning message"}
+{"level":"error","message":"error"}
+{"ip":"127.0.0.1","level":"info","message":"User logged in","username":"ananth"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"info","message":"this is a information message"}
+{"level":"warn","message":"this is a warning message"}
+{"level":"error","message":"error"}
+{"ip":"127.0.0.1","level":"info","message":"User logged in","username":"ananth"}
+{"error":{},"level":"error","message":"An error occurred"}
+{"level":"info","message":"this is a information message"}
+{"level":"warn","message":"this is a warning message"}
+{"level":"error","message":"error"}
+{"ip":"127.0.0.1","level":"info","message":"User logged in","username":"ananth"}
+{"error":{},"level":"error","message":"An error occurred"}
